@@ -1,4 +1,4 @@
-X Axis;Y Axis;Z Axis;speed;std speed;flashes;height;flash time;number of flashes;time;direction
+X Axis,Y Axis,Z Axis,speed,std speed,flashes,height,flash time,number of flashes,time,direction
 0;0;0;7,732100079;21,27411752;0,836535186;0,893909107;37,5;12;19,40939338;V
 0;1;0;8,93297619;24,14391967;0,997566682;0,981108211;41,78899083;327;19,99695986;U
 0;2;0;1,4209136;25,14055993;0,992084814;0,964873731;42,41145833;576;20,02562567;U
